@@ -26,3 +26,7 @@ I set up my PirateBox in under an hour by following these excellent instructions
 For tests that are run from your host, you will need to connect to the PirateBox network in order to access those services.  You should be able to use the PirateBox itself as a development host if you do not have a separate computer.
 
 For tests running from multiple hosts (demonstrating master/slave functionality), you will need multiple hosts, containers, etc.
+
+## Completed Samples
+
+* Chat - Covers the quickstart. https://docs.locust.io/en/latest/quickstart.html
