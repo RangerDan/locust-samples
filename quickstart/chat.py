@@ -1,16 +1,7 @@
 from locust import HttpLocust, TaskSet
 
-#def login(l):
-#    l.client.post('/login', {'username':'ellen_key', 'password':'education'})
-
 def index(l):
     l.client.get('/content')
-
-def files(l):
-    l.client.get('/Shared')
-
-def forum(l):
-    l.client.get('/board/')
 
 def chatContent(l):
     l.client.get('/chat_content.html')
