@@ -29,4 +29,6 @@ For tests running from multiple hosts (demonstrating master/slave functionality)
 
 ## Completed Samples
 
-* Chat - Covers the quickstart. https://docs.locust.io/en/latest/quickstart.html
+Samples will follow the [documentation table of contents](https://docs.locust.io/en/latest/)
+
+* Chat - [Quickstart](https://docs.locust.io/en/latest/quickstart.html)
